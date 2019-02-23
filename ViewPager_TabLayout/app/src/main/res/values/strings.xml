@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager_TabLayout</string>
+    <string name="tab1">1번탭</string>
+    <string name="tab2">2번탭</string>
+    <string name="tab3">3번탭</string>
+    <string name="tab0">0번탭</string>
+</resources>
